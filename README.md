@@ -26,7 +26,7 @@
 
 ## 🧠 Who Am I?
 
-<img align="right" alt="AI Coding" width="380" height='425' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="AI Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class HarishReddy:
